@@ -12,7 +12,7 @@
         }
         .container {
             width: 60%;
-            margin: 20px auto;
+            margin: 30px auto;
             background: white;
             padding: 20px;
             border-radius: 8px;
