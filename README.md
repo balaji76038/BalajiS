@@ -13,7 +13,7 @@
         .container {
             width: 60%;
             margin: 30px auto;
-            background: white;
+            background: green ;
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0px 0px 10px gray;
@@ -42,7 +42,7 @@
         .resume-btn a {
             text-decoration: none;
             background: #007bff;
-            color: white;
+            color: red ;
             padding: 10px 20px;
             border-radius: 5px;
         }
